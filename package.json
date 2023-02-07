@@ -1,7 +1,7 @@
 {
-  "name": "ts-express",
+  "name": "be-travel-web",
   "version": "1.0.0",
-  "description": "Express app with Typescript",
+  "description": "BE for Travel Web",
   "main": "index.js",
   "scripts": {
     "start": "ts-node src/index.ts",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eruDev0/ts-express.git"
+    "url": "git+https://github.com/eruDev0/be-mern-travel-web.git"
   },
   "keywords": [
     "Express",
@@ -22,9 +22,9 @@
   "author": "erudev0@gmail.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/eruDev0/ts-express/issues"
+    "url": "https://github.com/eruDev0/be-mern-travel/issues"
   },
-  "homepage": "https://github.com/eruDev0/ts-express#readme",
+  "homepage": "https://github.com/eruDev0/be-mern-travel#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",

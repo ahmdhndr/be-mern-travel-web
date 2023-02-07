@@ -1,9 +1,8 @@
 import cors from 'cors';
-// import dotenv from 'dotenv';
 import express from 'express';
 import helmet from 'helmet';
-import MessageResponse from 'interfaces/MessageResponse';
 import morgan from 'morgan';
+import MessageResponse from './interfaces/MessageResponse';
 import api from './api';
 import * as middlewares from './middlewares';
 
